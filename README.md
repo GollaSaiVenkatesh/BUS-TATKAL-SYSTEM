@@ -1,6 +1,7 @@
 
 # RTC BUS TATKAL 
 Official Source Code of RTC BUS TATKAL which was a Database Management System project at Amrita School Of Engineering , Bangalore  
+
 This website is useful for booking tickets even when it is dispatched from the source. In the situation of emergence for a travel by bus at night, a person can’t book a ticket for his/her travel. This website helps the person to give him the details of the vacancy of seats on the bus, he/she needs to travel. So, this website makes the person to know that there is an empty seat to travel and at the same time he/she can book the ticket. 
 
  
