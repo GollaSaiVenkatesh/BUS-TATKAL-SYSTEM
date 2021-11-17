@@ -11,21 +11,21 @@ google chrome (any browser not specific), install xampp server (version=3.2.4), 
 
 # How it starts: 
 
-1)Open xampp server and start apache and MySQL. 
+o Open xampp server and start apache and MySQL. 
 
-2)In the MySQL row we have an option named admin (click on it to get the phpMyAdmin). 
+o In the MySQL row we have an option named admin (click on it to get the phpMyAdmin). 
 
-3)Here we need to take care of apache that ports are free for it. 
+o Here we need to take care of apache that ports are free for it. 
 
-4)In the phpMyAdmin we need to create a database and name it as a bus. 
+o In the phpMyAdmin we need to create a database and name it as a bus. 
 
-5)Place this entire folder in htdocs, in xampp(xampp path as per your installation). 
+o Place this entire folder in htdocs, in xampp(xampp path as per your installation). 
 
-6)Open index.php in Visual Studio code. Now give the right click on the file name and copy the path. 
+o Open index.php in Visual Studio code. Now give the right click on the file name and copy the path. 
 
-7)paste the path on browser and delete everything that present before the folder name and write localhost:80. 
+o paste the path on browser and delete everything that present before the folder name and write localhost:80. 
 
-8)Now you will get the page what you want. 
+o Now you will get the page what you want. 
 
 
 
